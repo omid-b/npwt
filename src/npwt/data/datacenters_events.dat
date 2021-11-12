@@ -1,0 +1,26 @@
+# list of event catalogues are from https://docs.obspy.org/packages/obspy.clients.fdsn.html
+# lines starting with '#' will be ignored
+IRIS
+#BGR
+#EMSC
+#ETH
+#GEONET
+#GFZ
+#ICGC
+#INGV
+#IPGP
+#ISC
+#KNMI
+#KOERI
+#LMU
+#NCEDC
+#NIEP
+#NOA
+#ODC
+#ORFEUS
+#RASPISHAKE
+#RESIF
+#SCEDC
+#TEXNET
+#USGS
+#USP
